@@ -1,2 +1,6 @@
-# YoloV4_Trafic_Sign_Detection
+## YoloV4_Trafic_Sign_Detection
 Model training with traffic sign dataset by YoloV4
+
+## REFERENCE
+
+datasets: https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format

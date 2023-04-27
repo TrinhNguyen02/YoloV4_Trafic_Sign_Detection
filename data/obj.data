@@ -1,0 +1,5 @@
+classes=4
+train= /content/drive/MyDrive/GOOGLE_COLAB/Trafic_Sign/train.txt
+valid= /content/drive/MyDrive/GOOGLE_COLAB/Trafic_Sign/valid.txt
+names= /content/drive/MyDrive/GOOGLE_COLAB/Trafic_Sign/classes.names
+backup=/content/drive/MyDrive/GOOGLE_COLAB/Trafic_Sign/backup
