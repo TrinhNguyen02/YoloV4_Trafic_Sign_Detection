@@ -3,4 +3,4 @@ Model training with traffic sign dataset by YoloV4
 
 ## REFERENCE
 
-datasets: https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format
+dataset: https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format
